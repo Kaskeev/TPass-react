@@ -1,0 +1,31 @@
+.content {
+  margin-top: 100px;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin-bottom: 100px;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+.content__wrap {
+  max-width: 325px;
+}
+.content__wrap img {
+  max-width: 105px;
+  max-height: 105px;
+  margin-bottom: 30px;
+}
+.content-title {
+  font-weight: bold;
+  font-size: 25px;
+  line-height: 32px;
+  letter-spacing: 0.2px;
+  color: #0f2336;
+  margin-bottom: 12px;
+}
+.content-title-2 {
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 24px;
+  color: #576d81;
+}
